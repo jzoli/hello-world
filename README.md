@@ -1,2 +1,5 @@
 # hello-world
-tutorial repo
+
+Hello!
+
+My name is jzoli. I'm learning java and git usage.
